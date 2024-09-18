@@ -1,0 +1,211 @@
+h1{
+    color: #191970;
+
+
+}
+.one{
+   color: #663399;
+   
+    text-indent:50px ;
+    font-weight: bold;
+    font-size: large;
+
+   
+   
+}
+img{
+    float: right;
+    border: 5px solid black;
+}
+h2{
+    color: #0000CD;
+    
+}
+h3{
+    color:#8B4513;
+    text-align: center;
+}
+.two{
+    color:#663399; 
+    font-size: large;
+}
+.ab{
+    color: #663399;
+    font-size: large;
+}
+.city{
+    color: #663399;
+    font-size: large;
+}
+.oreo{
+    color:#663399; 
+    font-size: large;
+}
+.red{
+  color:  #663399;
+  font-size: large;
+}
+.first{
+    color:#663399; 
+    font-size: large;
+}
+.xyz{
+    color:#663399;
+    font-size: large; 
+}
+.harappa{
+   color: #663399;
+   font-size: large;
+}
+.Mohenjo-daro{
+    color:#663399;
+    font-size: large;
+}
+#a123{
+   color: #663399;
+   font-size: large;
+
+}
+#a765{
+    color:#663399;
+    font-size: large;
+}
+span{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.frame-container {
+    width: 80%;
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    
+    
+}
+
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; 
+    height: 0;
+    overflow: hidden;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:320px)and (max-width:1200px){
+    h1{
+        color: #191970;
+        font-size: small;
+    
+    
+    }
+    .one{
+       color: #663399;
+       
+        text-indent:25px ;
+        font-weight: bold;
+        font-size: small;
+    
+       
+       
+    }
+    img{
+        float: right;
+        border: 2px solid black;
+    }
+    h2{
+        color: #0000CD;
+        font-size: small;
+        
+    }
+    h3{
+        color:#8B4513;
+        text-align: center;
+        font-size: small;
+    }
+    .two{
+        color:#663399; 
+        font-size: small;
+    }
+    .ab{
+        color: #663399;
+        font-size: small;
+    }
+    .city{
+        color: #663399;
+        font-size: small;
+    }
+    .oreo{
+        color:#663399; 
+        font-size: small;
+    }
+    .red{
+      color:  #663399;
+      font-size: small;
+    }
+    .first{
+        color:#663399; 
+        font-size: small;
+    }
+    .xyz{
+        color:#663399;
+        font-size: small; 
+    }
+    .harappa{
+       color: #663399;
+       font-size: small;
+    }
+    .Mohenjo-daro{
+        color:#663399;
+        font-size: small;
+    }
+    #a123{
+       color: #663399;
+       font-size: small;
+    
+    }
+    #a765{
+        color:#663399;
+        font-size: small;
+    }
+    span{
+        color: red;
+        font-weight: bolder;
+        font-size: small;
+    }
+    
+    .frame-container {
+        width: 50%;
+        max-width: 450px; 
+        margin: 0 auto; 
+        padding: 10px; 
+        
+        
+    }
+    
+    
+    .video-wrapper {
+        position: relative;
+        padding-bottom: 30.24%; 
+        height: 0;
+        overflow: hidden;
+    }
+    
+    .video-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+}
